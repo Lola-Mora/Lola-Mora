@@ -30,7 +30,7 @@
 ---
 
 ## **🚀 Featured Projects**  
-Here are some projects I’ve worked on:  
+Here are some projects I’m working on:  
 
 1. **[Network Port Scanner](https://github.com/Lola-Mora/port-scanner)**  
    - A Python script to scan open ports and detect services.  
