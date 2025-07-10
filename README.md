@@ -1,7 +1,7 @@
 # 👋 Hi, I'm NoeLB 
 
 ### **🛡️ Cybersecurity in Trainning | [Analyst]**  
-*(e.g., Penetration Testing | Threat Analysis | Blue Team | Security Research)*  
+*(e.g., Cyber Forensics | Penetration Testing | Threat Analysis | Blue Team | Security Research)*  
 
 ---
 
