@@ -25,7 +25,10 @@
 - |Snort |Wireshark |Splunk |Windows Event Logs |NAC
 
 ### **Programming & Scripting**  
-- **Python** (Security Scripts, Automation) | **Bash** | **PowerShell**  
+- **Python** (Security Scripts, Automation) | **Bash** | **PowerShell**
+
+### **Cloud Infrastructure**  
+-|Terraform |Git |VS Code |NODE.js |AWS
 
 ---
 
@@ -43,4 +46,4 @@ Here are some projects I’m working on:
 3. **[TryHackMe/HTB Writeups](https://github.com/Lola-Mora/ctf-writeups)**  
    - Walkthroughs of cybersecurity challenges.  
 
-
+4.**[Create an MVP](xxxx)**  
