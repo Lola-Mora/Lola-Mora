@@ -1,7 +1,7 @@
 # 👋 Hi, I'm NoeLB 
 
-### **🛡️ Cybersecurity in Trainning | [Analyst]**  
-*(e.g., Cyber Forensics | Penetration Testing | Threat Analysis | Blue Team | Security Research)*  
+### **🛡️ Cybersecurity Analyst**  
+*(e.g., Cyber Forensics | Clouding Security | Threat Analysis | Blue Team | Security Research)*  
 
 ---
 
@@ -9,7 +9,7 @@
 - 🎓 Studying **Cybersecurity** 
 - 🔐 Passionate about **ethical hacking, vulnerability research, and defensive security**  
 - 🌱 Currently learning: **Python, Burp Suite, Metasploit, Wireshark, etc.**  
-- 💡 Interested in: **OSINT, Malware Analysis, Network Security, CTFs**  
+- 💡 Interested in: **OSINT, Malware Analysis, Network Security, CTFs, Digital Forensics**  
 
 ---
 
